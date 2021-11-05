@@ -4,3 +4,5 @@
 
 ALBIN
 PATRIK HEJ
+
+<img src="database_design.png" >
