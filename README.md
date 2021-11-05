@@ -4,13 +4,11 @@
 
 ## Who are you?
 
----
-
 <br/>
 You awake encapsulated by snow all around.
 You try to remember but everything is blank.
 Who are you and why are you lying in this snowdrift?<br/><br/>The only thing in your mind is that you’re <strong>TIRED</strong> and this <strong>BLIZZARD</strong>
-surrounding you. (Maybe you should search deeper in your <u>memory</u> for a clue?)<br/><br/><br/>
+surrounding you. (Maybe you should search deeper in your memory for a clue?)<br/><br/><br/>
 
 DATABASE / TABLE STRUCTURE
 <img src="database_design.png" >
