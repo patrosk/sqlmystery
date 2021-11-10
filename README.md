@@ -10,5 +10,12 @@ You try to remember but everything is blank.
 Who are you and why are you lying in this snowdrift?<br/><br/>The only thing in your mind is that you’re <strong>TIRED</strong> and this <strong>BLIZZARD</strong>
 surrounding you. (Maybe you should search deeper in your memory for a clue?)<br/><br/><br/>
 
+
+How to solve this mystery:<br>
+Download the database [here](database.db). <br>
+
+
+
+
 DATABASE / TABLE STRUCTURE
 <img src="database_design.png" >
