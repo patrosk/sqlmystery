@@ -19,7 +19,7 @@ How to solve this mystery:<br>
 5. It is possible to solve this mystery with seven queries. <br>
 6. Good luck! <br>
 
-/Albin, Nema och Patrik
+/Albin, Nema and Patrik
 
 
 DATABASE / TABLE STRUCTURE
