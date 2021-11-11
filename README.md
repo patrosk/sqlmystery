@@ -7,7 +7,7 @@
 <br/>
 You awake encapsulated by snow all around.
 You try to remember but everything is blank.
-Who are you and why are you lying in this snowdrift?<br/><br/>The only thing in your mind is that you’re <strong>Tired</strong> and this <strong>Blizzard</strong>
+Who are you and why are you lying in this snowdrift?<br/><br/>The only thing in your mind is that you’re <strong>tired</strong> and this <strong>blizzard</strong>
 surrounding you. (Maybe you should search deeper in your memory for a clue?)<br/><br/><br/>
 
 
